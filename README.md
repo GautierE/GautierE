@@ -1,5 +1,5 @@
 ### 👟 Hi, my name is Gautier 🛹
-I'm an independent developer
+I am a computer science graduate developer who has been building applications since 2019. I have built all types of applications, but I have since chosen to focus on creating web and mobile apps.
 
 ---
 ### 👨‍💻 Web languages / Frameworks
@@ -22,3 +22,4 @@ I'm an independent developer
 <br/>
 
 #
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gautiere&hide=stars&show_icons=true&theme=tokyonight&count_private=true)
