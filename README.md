@@ -1,4 +1,4 @@
-### 👟 Hi, my name is Gautier 🛹
+### 👋 Hi, my name is Gautier 👋
 
 I am a computer science graduate developer who has been building applications since 2019. I have built all types of applications, but I have since chosen to focus on creating web and mobile apps.
 <br/>
@@ -28,7 +28,7 @@ On top of that, I've been reselling sneakers for 2 years, and it's been a great 
 <br/>
 <br/>
 
-#
+---
 
 ### 🌱 My most recent work
 
@@ -37,6 +37,12 @@ On top of that, I've been reselling sneakers for 2 years, and it's been a great 
 A web-based tool to help sneaker resellers, mainly through Paypal payment automation.
 <br/>
 https://cloudmate.vercel.app/
+<br />
+
+#
+
+🌐 Check my other projetcs on my portfolio : 
+https://gautieredel.vercel.app/
 </p>
 
 ---
