@@ -1,10 +1,13 @@
 ### 👟 Hi, my name is Gautier 🛹
+
 I am a computer science graduate developer who has been building applications since 2019. I have built all types of applications, but I have since chosen to focus on creating web and mobile apps.
 <br/>
 On top of that, I've been reselling sneakers for 2 years, and it's been a great way to turn my passion into my main source of income. I started my own business in early 2022 allowing me to live off my passion.
 
 ---
+
 ### 👨‍💻 Web languages / Frameworks
+
 <img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img align="left" alt="CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <img align="left" alt="Javascript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
@@ -24,7 +27,9 @@ On top of that, I've been reselling sneakers for 2 years, and it's been a great 
 <br/><br/>
 
 #
+
 ### 🌱 My most recent work
+
 <b>🌥️ CloudMate 🌥️</b>
 <p>
 A web-based tool to help sneaker resellers mainly through Paypal payment automation.
