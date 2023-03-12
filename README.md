@@ -24,7 +24,7 @@ On top of that, I've been reselling sneakers for 2 years, and it's been a great 
 <img align="left" alt="Sequelize" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg"/>
 <img align="left" alt="MySQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
 <img align="left" alt="SQLite" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg"/>
-<br/><br/>
+<br/>
 
 #
 
@@ -32,7 +32,7 @@ On top of that, I've been reselling sneakers for 2 years, and it's been a great 
 
 <b>🌥️ CloudMate 🌥️</b>
 <p>
-A web-based tool to help sneaker resellers mainly through Paypal payment automation.
+A web-based tool to help sneaker resellers, mainly through Paypal payment automation.
 <br/>
 https://cloudmate.vercel.app/
 </p>
