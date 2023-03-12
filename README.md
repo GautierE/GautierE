@@ -40,4 +40,5 @@ I am a computer science graduate developer who has been building applications si
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gautiere&hide=stars&show_icons=true&theme=tokyonight&count_private=true)
 <br/>
+<br/>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gautiere&theme=tokyonight)
