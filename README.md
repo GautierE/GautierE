@@ -7,7 +7,7 @@ Web and mobile developer
 I am a computer science graduate developer who has been building applications since 2019. I have built all types of applications, but I have since chosen to focus on creating web and mobile apps. On top of that, I've been reselling sneakers for 2 years and started my own business in early 2022 allowing me to live off my passion.
 
 * 🌍  I'm based in Strasbourg, France
-* 🖥️  See my portfolio at [gautieredel.vercel.app](http://gautieredel.vercel.app/)
+* 🖥️  See my portfolio at [gautieredel.vercel.app](https://www.gautieredel.dev/)
 * ✉️  You can contact me at [gautier.edel.info@gmail.com](mailto:gautier.edel.info@gmail.com)
 * 🌥️  I'm currently working on [CloudMate](http://cloudmate.vercel.app/)
 
