@@ -37,8 +37,7 @@ I am a computer science graduate developer who has been building applications si
 ---
 
 ### 📊 My GitHub Stats
-
-![Anurag's GitHub stats](https://github-readme-stats-mf2wotqc4-gautiere.vercel.app/api?username=gautiere&hide=stars&show_icons=true&theme=tokyonight&count_private=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gautiere&hide=stars&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 <br/>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gautiere&theme=tokyonight)
