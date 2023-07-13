@@ -51,6 +51,7 @@ I am a computer science graduate developer who has been building applications si
     <a href="https://symfony.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" width="40" height="40" alt="Symfony" /></a>
     <a href="https://www.doctrine-project.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/doctrine/doctrine-original.svg" width="40" height="40" alt="Doctrine" /></a>
     <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40" alt="Laravel" /></a>
+                 <a href="https://getcomposer.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" width="40" height="40" alt="Composer" /></a>
             </li>
             <li>
                 <h5>Javascript</h5>
@@ -68,12 +69,21 @@ I am a computer science graduate developer who has been building applications si
     </li>
     <li>
         <h4>Dev ops</h4>
+         <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="Google cloud platform" /></a>
         <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="40" height="40" alt="Firebase" /></a>
+         <a href="https://vercel.com" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354513/vercel-icon.svg" width="40" height="40" alt="Vercel" /></a>
+    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Bash" /></a>
+ <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="40" height="40" alt="Docker" /></a>
+   <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" width="40" height="40" alt="Gitlab" /></a>
+         <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" width="40" height="40" alt="Jira" /></a>
+         <a href="https://trello.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" width="40" height="40" alt="Trello" /></a>
     </li>
     <li>
-        <h4>Native languages</h4>
-        <a href="[https://learn.microsoft.com/en-us/dotnet/csharp/](https://www.java.com/en/)" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" /></a>
-    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" /></a>
+        <h4>Miscs</h4>
+        <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" /></a>
+<a href="https://maven.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/373829/maven.svg" width="40" height="40" alt="Maven" /></a>
+<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40" alt="Android studio" /></a>
+    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
     </li>
 </ul>
 
