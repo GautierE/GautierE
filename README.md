@@ -65,6 +65,7 @@ I am a computer science graduate developer who has been building applications si
         <h4>Databases</h4>
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" /></a>
         <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" width="40" height="40" alt="SQLite" /></a>
+                <a href="https://cassandra.apache.org/_/index.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Cassandra_logo.svg" width="40" height="40" alt="Cassandra" /></a>
         <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="40" height="40" alt="Firebase" /></a>
     </li>
     <li>
